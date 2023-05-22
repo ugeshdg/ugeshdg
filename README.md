@@ -65,9 +65,9 @@ class Skills extends SoftwareDeveloper {
 <br>
   <br>
  
-[![Nilesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ugeshdg&theme=tokyonight)]
+[![Ugesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ugeshdg&theme=tokyonight)]
 
-| ![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=ugeshdg&show_icons=true&theme=tokyonight) | ![Nilesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ugeshdg&theme=tokyonight) |
+| ![Ugesh's github stats](https://github-readme-stats.vercel.app/api?username=ugeshdg&show_icons=true&theme=tokyonight) | ![Ugesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ugeshdg&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugeshdg&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
