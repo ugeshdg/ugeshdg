@@ -14,8 +14,8 @@
 ```js
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
-  name     = 'Nilesh Tiwari';
-  title    = 'Software Engineer' || 'Full Stack Web Developer';
+  name     = 'Ugesh B';
+  title    = 'Sr Software Engineer' || 'Full Stack Web Developer';
   location = 'Mumbai, India';
   availability = "Available to hire!!"
 }
@@ -52,24 +52,24 @@ class Skills extends SoftwareDeveloper {
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/nilesh-tiwari14/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://nilesh-tiwari-portfolio.netlify.app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
-<a href = 'https://www.github.com/Nilesh1409'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.github.com/ugeshdg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
  
   <br/>
   <br/>
   <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nilesh1409&label=Profile%20views&color=32a846&style=flat" alt="views" />
-<a href="https://github.com/akashkmt?tab=followers"><img src="https://img.shields.io/github/followers/Nilesh1409?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugeshdg&label=Profile%20views&color=32a846&style=flat" alt="views" />
+<a href="https://github.com/akashkmt?tab=followers"><img src="https://img.shields.io/github/followers/ugeshdg?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
  
 <br>
 <br>
   <br>
  
-[![Nilesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nilesh1409&theme=tokyonight)]
+[![Nilesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ugeshdg&theme=tokyonight)]
 
-| ![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=Nilesh1409&show_icons=true&theme=tokyonight) | ![Nilesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nilesh1409&theme=tokyonight) |
+| ![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=ugeshdg&show_icons=true&theme=tokyonight) | ![Nilesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ugeshdg&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh1409&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugeshdg&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
 
 
